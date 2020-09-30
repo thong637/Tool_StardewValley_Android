@@ -1,0 +1,12 @@
+{
+"feedback":"Phản Hồi",
+"main":"Màn hình chính",
+"library":"Thư viện",
+"in":"Vào",
+"premodcreate":"Tạo Mod cho Stardew Valley",
+"pretool":"Sử dụng công cụ hỗ trợ",
+"title_error":"Lỗi",
+"body_download_library":"Bạn chưa tải thư viện nào cả \n Vui lòng tải ít nhất 1 thư viện tạo Mod",
+"end":"OK","Create":"Tạo Mod","editor_id":"Nhập id Mod","editor_name":"Nhập tên Mod","editor_author":"Nhập tên tác giả","editor_ver":"Nhập phiên bản Mod",
+"editor_Description":"Nhập mô tả Mod"
+}
